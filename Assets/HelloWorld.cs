@@ -14,6 +14,12 @@ public class HelloWorld : MonoBehaviour
     {
         return;
     }
+
+    private void Multply(int x, int y)
+    {
+        return;
+    }
+    
     // Update is called once per frame
     void Update()
     {
