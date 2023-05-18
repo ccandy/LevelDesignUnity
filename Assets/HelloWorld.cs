@@ -10,6 +10,10 @@ public class HelloWorld : MonoBehaviour
         
     }
 
+    private void Add(int x, int y)
+    {
+        return;
+    }
     // Update is called once per frame
     void Update()
     {
